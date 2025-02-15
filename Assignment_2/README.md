@@ -4,3 +4,4 @@ It's pretty straightforward, if you already have the packages installed then you
 
 If you need to install everything, you can just do `pip install -r requirements.txt`
 
+![](example-screenshot.png)
