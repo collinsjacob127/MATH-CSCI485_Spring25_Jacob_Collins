@@ -1,4 +1,4 @@
 # Quiz 2
 
-I recommend viewing the [html](Quiz2_jbcollins.html) version of the writeup over the `.pdf`, because the export formatting is much cleaner in html.
+If you're viewing in the GitHub website, look at the [Quiz 2 notebook](MDP.todo.ipynb), and if you're downloading to view, open the [exported html writeup](Quiz2_jbcollins.html).
 
